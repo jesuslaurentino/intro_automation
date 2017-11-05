@@ -1,0 +1,10 @@
+---Fork from repository to my repository (From Web)
+$ git config --global user.email "jesuslaurentino@hotmail.com"
+$ git config --global user.name "jesuslaurentino"
+$ git clone https://github.com/jesuslaurentino/intro_automation.git
+$ cd intro_automation/ (ir al directorio clonado)
+(cambios)
+$ git status
+$ git add .
+$ git commit -m "Add selenium IDE testcase1"
+$ git push

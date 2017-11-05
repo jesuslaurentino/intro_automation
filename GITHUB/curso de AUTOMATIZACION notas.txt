@@ -1,0 +1,39 @@
+PROCESO DE AUTOMATIZACION
+1. Análisis de viabilidad
+-Ver si es viable usar la herramienta, si se esta usando la herramienta adecuada o si nuestra aplicacion es suceptible a ser automatizada.
+-Qué casos de prueba son suceptibles para ser automatizados.
+-Refinar los casos de prueba. (Validaciones y criterios de aceptación)
+2. Preparación de la infraestructura.
+-Si es requerido crear librerias que soporten ciertas funcionalidades de nuestra aplicacion a probar. Que librerias son las necesarias para la uatomatización de mi aplicación.
+3. Crear los pasos de la prueba.
+-Interactuar con la página.
+4. Complementación de las pruebas.
+-Incluir esperas.
+-Incluir validaciones.
+5. Ejecución y depuración.
+6. Revsión con el cliente.
+
+Selenium IDE
+COmmand. La accion a realizar
+Target. Describe el elemento que va a sufrir la accion.
+Value. Valor del parametro a utilizar para la accion a realizar sobre el objeto.
+
+
+
+
+Click
+Open
+Verify!=Assert
+Verify solo verifica y de ser false manda warning.
+Assert falla el caso de prueba y termina la ejecución.
+Wait
+
+
+Siempre que el id de un item tenga un numero raro este noes fiable ya que es dinamico, en cambio si tiene un nombre mas descriptivo pudiera ser un id estatico para este item.
+
+
+
+
+Sabado 18 puente si hay curso
+
+Slack para comunicarnos

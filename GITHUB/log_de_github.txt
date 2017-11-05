@@ -1,0 +1,892 @@
+bash: All Users@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 /c/Users
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd laurentino/
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ ls
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  AppData/
+bash: AppData/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Configuración local'@
+bash: Configuración local@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Contacts/
+bash: Contacts/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Cookies@
+bash: Cookies@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Datos de programa'@
+bash: Datos de programa@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Desktop/
+bash: Desktop/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Documents/
+bash: Documents/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Downloads/
+bash: Downloads/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Entorno de red'@
+bash: Entorno de red@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Favorites/
+bash: Favorites/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Impresoras@
+bash: Impresoras@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Links/
+bash: Links/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Menú Inicio'@
+bash: Menú Inicio@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Mis documentos'@
+bash: Mis documentos@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Music/
+bash: Music/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  NTUSER.DAT
+bash: NTUSER.DAT: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ntuser.dat.LOG1
+bash: ntuser.dat.LOG1: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ntuser.dat.LOG2
+bash: ntuser.dat.LOG2: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TM.blf
+bash: NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TM.blf: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TMContainer00000000000000000001.regtrans-ms
+bash: NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TMContainer00000000000000000001.regtrans-ms: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TMContainer00000000000000000002.regtrans-ms
+bash: NTUSER.DAT{ef2bc4c2-d686-11e1-aed0-782bcb39b999}.TMContainer00000000000000000002.regtrans-ms: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ntuser.ini
+bash: ntuser.ini: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  OneDrive/
+bash: OneDrive/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Pictures/
+bash: Pictures/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Plantillas@
+bash: Plantillas@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Reciente@
+bash: Reciente@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Saved Games'/
+bash: Saved Games/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Searches/
+bash: Searches/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  SendTo@
+bash: SendTo@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  SkyDrive/
+bash: SkyDrive/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Videos/
+bash: Videos/: No such file or directory
+
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd Mis\ documentos/
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos
+cbash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ ls
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  AnalogPotentiometerDimming.pdsprj
+bash: AnalogPotentiometerDimming.pdsprj: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  AnalogPotentiometerDimming.pdsprj.jesuslaurentino.laurentino.workspace
+bash: AnalogPotentiometerDimming.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Archivos de Outlook'/
+bash: Archivos de Outlook/: No such file or directory
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Archivos varios en escritorio'/
+bash: Archivos varios en escritorio/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Arduino/
+bash: Arduino/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Arduino Programming Books'/
+bash: Arduino Programming Books/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ARDUINO-R3_LED_ON_OFF.pdsprj
+bash: ARDUINO-R3_LED_ON_OFF.pdsprj: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ARDUINO-R3_LED_ON_OFF.pdsprj.jesuslaurentino.laurentino.workspace
+bash: ARDUINO-R3_LED_ON_OFF.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ARDUINO-R3_LED_ON_OFF_WITH_PUSHBUTTON.pdsprj
+bash: ARDUINO-R3_LED_ON_OFF_WITH_PUSHBUTTON.pdsprj: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ARDUINO-R3_LED_ON_OFF_WITH_PUSHBUTTON.pdsprj.jesuslaurentino.laurentino.workspace
+bash: ARDUINO-R3_LED_ON_OFF_WITH_PUSHBUTTON.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  arraystr.cpp
+bash: arraystr.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  arraystr.o
+bash: arraystr.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Backup Of AnalogPotentiometerDimming.pdsbak'
+bash: Backup Of AnalogPotentiometerDimming.pdsbak: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Backup Of ARDUINO-R3_LED_ON_OFF.pdsbak'
+bash: Backup Of ARDUINO-R3_LED_ON_OFF.pdsbak: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Backup Of New Project.pdsbak'
+bash: Backup Of New Project.pdsbak: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Backup Of RANDOM_ANALOG_PWM_OUTPUT.pdsbak'
+bash: Backup Of RANDOM_ANALOG_PWM_OUTPUT.pdsbak: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Backup Of resumen_de_componentes.pdsbak'
+bash: Backup Of resumen_de_componentes.pdsbak: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Baseball (VIdeos, Libros, imagenes)'/
+bash: Baseball (VIdeos, Libros, imagenes)/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Blocs de notas de OneNote'/
+bash: Blocs de notas de OneNote/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Bluetooth Folder'/
+bash: Bluetooth Folder/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'C Programming'/
+bash: C Programming/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'CCNA CISCO'/
+bash: CCNA CISCO/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  CocoStudio/
+bash: CocoStudio/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  CURP.pdf
+bash: CURP.pdf: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'curriculum vitae'/
+bash: curriculum vitae/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'curriculum vitae.rar'
+bash: curriculum vitae.rar: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  CURRICULUM.zip
+bash: CURRICULUM.zip: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Curso de automatizacion con SeleniumIDE + Java'/
+bash: Curso de automatizacion con SeleniumIDE + Java/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  CursoJava.pdf
+bash: CursoJava.pdf: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  CyberLink/
+bash: CyberLink/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  desktop.ini
+/c/Windows/system32/desktop.ini: line 2: [LocalizedFileNames]: command not found
+/c/Windows/system32/desktop.ini: line 3: migwiz.lnk=@%windir%system32migwizwet.dll,-588: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Edos de cuenta actinver'/
+bash: Edos de cuenta actinver/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  factorial.cpp
+bash: factorial.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  factorial.o
+bash: factorial.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  factorial_1.cpp
+bash: factorial_1.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  factorial_1.o
+bash: factorial_1.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  fibonacci.cpp
+bash: fibonacci.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  fibonacci.o
+bash: fibonacci.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  handbook_for_solar_pv_systems.pdf
+bash: handbook_for_solar_pv_systems.pdf: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  HooNetMeter/
+bash: HooNetMeter/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Inf_compu_rosa/
+bash: Inf_compu_rosa/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Info Notebook ASUS'/
+bash: Info Notebook ASUS/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'inicio mazatlan 17  mayo.doc'
+bash: inicio mazatlan 17  mayo.doc: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  MACS.txt
+bash: MACS.txt: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Makefile.win
+bash: Makefile.win: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Mi música'@
+bash: Mi música@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Mis archivos recibidos'/
+bash: Mis archivos recibidos/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Mis imágenes'@
+bash: Mis imágenes@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Mis vídeos'@
+bash: Mis vídeos@: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'New Project.pdsprj'
+bash: New Project.pdsprj: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'New Project.pdsprj.jesuslaurentino.laurentino.workspace'
+bash: New Project.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Operating Sytems'/
+bash: Operating Sytems/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Oracle/
+bash: Oracle/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Photos/
+bash: Photos/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Plantillas personalizadas de Office'/
+bash: Plantillas personalizadas de Office/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Prog de Videojuegos'/
+bash: Prog de Videojuegos/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project1.dev
+bash: Project1.dev: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project1.exe*
+bash: Project1.exe*: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project1.layout
+bash: Project1.layout: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project2.dev
+bash: Project2.dev: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project2.exe*
+bash: Project2.exe*: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Project2.layout
+bash: Project2.layout: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  RANDOM_ANALOG_PWM_OUTPUT.pdsprj
+bash: RANDOM_ANALOG_PWM_OUTPUT.pdsprj: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  RANDOM_ANALOG_PWM_OUTPUT.pdsprj.jesuslaurentino.laurentino.workspace
+bash: RANDOM_ANALOG_PWM_OUTPUT.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Raspberry Pi Programming'/
+bash: Raspberry Pi Programming/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Respaldo cocos'/
+bash: Respaldo cocos/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Respaldo Lenovo Kraft'/
+bash: Respaldo Lenovo Kraft/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'respaldo mots'/
+bash: respaldo mots/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Respaldo Tablet'/
+bash: Respaldo Tablet/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Respaldo ZTE'/
+bash: Respaldo ZTE/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  ResumeEnglish_JLaurentinoRiveraR.doc
+bash: ResumeEnglish_JLaurentinoRiveraR.doc: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  resumen_de_componentes.pdsprj
+bash: resumen_de_componentes.pdsprj: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  resumen_de_componentes.pdsprj.jesuslaurentino.laurentino.workspace
+bash: resumen_de_componentes.pdsprj.jesuslaurentino.laurentino.workspace: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Sistema Nacional de Registro del Servicio Profesional Docente'/
+bash: Sistema Nacional de Registro del Servicio Profesional Docente/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  strtok_example.cpp
+bash: strtok_example.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  strtok_example.o
+bash: strtok_example.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Technical Brief.zip'
+bash: Technical Brief.zip: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Untitled1.cpp
+bash: Untitled1.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Untitled1.o
+bash: Untitled1.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Untitled2.cpp
+bash: Untitled2.cpp: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$  Untitled2.o
+bash: Untitled2.o: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Virtual Machines'/
+bash: Virtual Machines/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'Visual Studio 2012'/
+bash: Visual Studio 2012/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'WPA Files'/
+bash: WPA Files/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ 'WPR Files'/
+bash: WPR Files/: No such file or directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd Curso
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ Curso de automatizacion con SeleniumIDE + Java/
+bash: Curso: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ CursoJava.pdf
+bash: CursoJava.pdf: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos
+bash: laurentino@ASUS: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd Curso
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ Curso de automatizacion con SeleniumIDE + Java/
+bash: Curso: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ CursoJava.pdf
+bash: CursoJava.pdf: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd Curso
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ Curso de automatizacion con SeleniumIDE + Java/
+bash: Curso: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ CursoJava.pdf
+bash: CursoJava.pdf: command not found
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ cd 'Curso de automatizacion con SeleniumIDE + Java'/
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ ls
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ intro_automation-master/  intro_automation-master.zip  scripts/
+bash: intro_automation-master/: Is a directory
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+bash: laurentino@ASUS: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ git clone
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ ls
+intro_automation-master/  intro_automation-master.zip  scripts/
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ $ git clone https://github.com/jesuslaurentino/intro_automation.git
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ git
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ git branch
+fatal: Not a git repository (or any of the parent directories): .git
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ pwd
+/c/Users/laurentino/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Curso de automatizacion con SeleniumIDE + Java
+$ cd ..
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ pwd
+/c/Users/laurentino/Mis documentos
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ mkdir Repo
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ cd Re
+Repo/
+Respaldo cocos/
+Respaldo Lenovo Kraft/
+respaldo mots/
+Respaldo Tablet/
+Respaldo ZTE/
+ResumeEnglish_JLaurentinoRiveraR.doc
+resumen_de_componentes.pdsprj
+resumen_de_componentes.pdsprj.jesuslaurentino.laurentino.workspace
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ cd Repo/
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo
+$ $ git clone https://github.com/jesuslaurentino/intro_automation.git
+bash: $: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo
+$ cd ..
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ cd re
+Repo/
+Respaldo cocos/
+Respaldo Lenovo Kraft/
+respaldo mots/
+Respaldo Tablet/
+Respaldo ZTE/
+ResumeEnglish_JLaurentinoRiveraR.doc
+resumen_de_componentes.pdsprj
+resumen_de_componentes.pdsprj.jesuslaurentino.laurentino.workspace
+
+laurentino@ASUS MINGW64 ~/Mis documentos
+$ cd Repo/
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo
+$ git clone https://github.com/jesuslaurentino/intro_automation.git
+Cloning into 'intro_automation'...
+remote: Counting objects: 34, done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 34 (delta 11), reused 31 (delta 8), pack-reused 0
+Unpacking objects: 100% (34/34), done.
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo
+$ git status
+fatal: Not a git repository (or any of the parent directories): .git
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo
+$ cd intro_automation/
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git remote -v
+origin  https://github.com/jesuslaurentino/intro_automation.git (fetch)
+origin  https://github.com/jesuslaurentino/intro_automation.git (push)
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        tareas/Intro1.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git add .
+warning: LF will be replaced by CRLF in tareas/Intro1.html.
+The file will have its original line endings in your working directory.
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   tareas/Intro1.html
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git commit -m
+error: switch `m' requires a value
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <default>   how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git commit -m "Add selenium IDE testcase1"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'laurentino@ASUS.(none)')
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ ^C
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git config --global user.email "jesuslaurentino@hotmail.com"
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ ^C
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git config --global user.name "jesuslaurentino"
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git commit -m "Add selenium IDE testcase1"
+[master 360d37d] Add selenium IDE testcase1
+ 1 file changed, 46 insertions(+)
+ create mode 100644 tareas/Intro1.html
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git push
+Username for 'https://github.com': jesuslaurentino
+
+
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+
+bash: githubpass2017: command not found
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/jesuslaurentino/intro_automation.git/'
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ githubpass2017
+bash: githubpass2017: command not found
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$ git push
+Username for 'https://github.com': jesuslaurentino
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 861 bytes | 430.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jesuslaurentino/intro_automation.git
+   2acf43e..360d37d  master -> master
+
+laurentino@ASUS MINGW64 ~/Mis documentos/Repo/intro_automation (master)
+$
